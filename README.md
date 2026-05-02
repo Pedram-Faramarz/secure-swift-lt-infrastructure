@@ -3,11 +3,11 @@
 > A multi-stage Linux security project simulating a bank's internal SWIFT terminal environment, built with a strong emphasis on operating system security, system isolation, auditability, and reliability.
 
 **Course:** Security of Operating System  
-**Institution:** School of Information Technology and Engineering  
+**University:** Kazakh-British Technical University (KBTU)  
+**School:** School of Information Technology and Engineering  
 **Author:** Faramarz Pedram  
 **Supervisor:** Valyayev Denis  
 **Year:** 2026
-
 ---
 
 ## 📋 Table of Contents
